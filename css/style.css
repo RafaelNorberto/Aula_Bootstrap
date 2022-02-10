@@ -1,0 +1,46 @@
+.navbar{
+    background-color:#395f6c;
+    font-size: 20px;
+    font-family: Arial, Helvetica, sans-serif; 
+    font-style: white;
+    font-weight: bold; 
+}
+.navbar-brand{
+    margin-left: 30px;
+}
+
+.collapse{
+    color: white;
+
+}
+.titulo{
+    font-weight: bold;
+}
+
+.texto-corpo{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+}
+.margin{
+    padding-top: 50px;
+    padding-bottom: 50px;
+
+}
+.quem-somos{
+    background-color: #9cd1e4;
+}
+
+.parceiros{
+    background-color: #18282e;
+    color: white;
+}
+
+.servicos{
+    background-color: #457383;
+}
+
+.footer{
+    background-color: #18282e;
+    font-size: 20px;
+    color: white;
+}
